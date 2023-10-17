@@ -1,0 +1,15 @@
+/home/lupin/Homework/advanced prog/actividad9/bin/Debug/net6.0/actividad9
+/home/lupin/Homework/advanced prog/actividad9/bin/Debug/net6.0/actividad9.deps.json
+/home/lupin/Homework/advanced prog/actividad9/bin/Debug/net6.0/actividad9.runtimeconfig.json
+/home/lupin/Homework/advanced prog/actividad9/bin/Debug/net6.0/actividad9.dll
+/home/lupin/Homework/advanced prog/actividad9/bin/Debug/net6.0/actividad9.pdb
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/actividad9.csproj.AssemblyReference.cache
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/actividad9.GeneratedMSBuildEditorConfig.editorconfig
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/actividad9.AssemblyInfoInputs.cache
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/actividad9.AssemblyInfo.cs
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/actividad9.csproj.CoreCompileInputs.cache
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/actividad9.dll
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/refint/actividad9.dll
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/actividad9.pdb
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/actividad9.genruntimeconfig.cache
+/home/lupin/Homework/advanced prog/actividad9/obj/Debug/net6.0/ref/actividad9.dll
